@@ -5,5 +5,3 @@ for x in fruits:
     if x == "banana":
         break;
 
-
-        
